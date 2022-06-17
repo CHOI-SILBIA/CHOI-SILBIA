@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20silbia&fontSize=90)
 
-### Who Am I?<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">
+### Who Am I?
 - ✍32살에 개발자의 길을 도전하고 있습니다.
 
 - 👔6년간 기계연구원으로 일하였던 경험이 있습니다.
