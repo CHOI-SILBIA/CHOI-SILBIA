@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20silbia&fontSize=90)
 
 ### Who Am I?
-- ✍32살에 개발자의 길을 도전하고 있습니다.
 
 - 👔6년간 기계연구원으로 일하였던 경험이 있습니다.
 
@@ -18,7 +17,7 @@
 
 - 📚비트캠프 SW 웹개발자 양성과정 수료 (2021.07 ~ 2021.12)
 
-- 🎓창원대학교 메카융합공학과 재학 (2018.03 ~ 2023.02)
+- 🎓창원대학교 메카융합공학과 졸업 (2018.03 ~ 2023.02)
 
 - 😀K DATA LAB 재직 (2022.02 ~ )
 <br/>
@@ -27,6 +26,7 @@
 - 🏖 캠핑
 
 - 🚙 여행
+
 <br/>
 
 ### Skill
@@ -39,7 +39,6 @@
   <br/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -48,7 +47,6 @@
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br/>
 </p>
 
