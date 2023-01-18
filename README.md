@@ -49,10 +49,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br/>
 </p>
-
-
-[![CHOI-SILBIA's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBI-CHOI&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/CHOI-SILBIA)
-
-
-
- 
